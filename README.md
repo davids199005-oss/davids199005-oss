@@ -48,20 +48,6 @@ Real-time market data, coin details, chart-based reports, AI-powered buy/sell re
 
 `React 19` `TypeScript` `Redux Toolkit` `MUI` `Recharts` `OpenAI` `Vite`
 
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [Tic-Tac-Toe](https://github.com/davids199005-oss/tic-tac-toe)
-**Console Game in Python**
-
-PvP and PvC modes, symbol selection, replay support. Clean OOP design.
-
-`Python`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
