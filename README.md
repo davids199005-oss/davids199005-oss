@@ -141,17 +141,13 @@ PvP and PvC modes, symbol selection, replay support. Clean OOP design.
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davids199005-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davids199005-oss&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=davids199005-oss&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 <div align="center">
