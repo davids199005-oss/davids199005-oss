@@ -140,7 +140,7 @@ PvP and PvC modes, symbol selection, replay support. Clean OOP design.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Codeium](https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
 
----
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -148,7 +148,7 @@ PvP and PvC modes, symbol selection, replay support. Clean OOP design.
 ![GitHub Streak](https://streak-stats.demolab.com?user=davids199005-oss&theme=tokyonight&hide_border=true)
 
 </div>
----
+
 
 <div align="center">
 
