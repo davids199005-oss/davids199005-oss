@@ -65,7 +65,6 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-5A45FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/AntD-0170FE?style=flat-square&amp;logo=antdesign&amp;logoColor=white" />
 </div>
