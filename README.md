@@ -8,9 +8,6 @@
 
 I build full-stack web applications with AI capabilities — from REST APIs and real-time systems to RAG pipelines and intelligent chatbots. I focus on clean architecture, type safety, and production-grade code.
 
-**~1 257 academic hours** across two intensive programs:
-- 🎓 **ECOM School** — AI Developer (Python, ML, DL, NLP) · 427 hrs
-- 🎓 **John Bryce College** — Full Stack & GenAI Developer (JS/TS, Node.js, React, GenAI Agents) · 830 hrs
 
 </div>
 
