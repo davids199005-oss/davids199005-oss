@@ -6,7 +6,7 @@
 
 <br>
 
-📍 Haifa, Israel &nbsp;•&nbsp; 📬 [davids199005@gmail.com](mailto:davids199005@gmail.com) &nbsp;•&nbsp; 💻 [GitHub](https://github.com/davids199005-oss)
+📍 Haifa, Israel &nbsp;•&nbsp; 📬 [davids199005@gmail.com](mailto:davids199005@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/david-veryutin-1990h) &nbsp;•&nbsp; 💻 [GitHub](https://github.com/davids199005-oss)
 
 <br>
 
@@ -194,6 +194,7 @@
 ![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
 
 ### 🧰 Workflow & Productivity
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
@@ -234,6 +235,7 @@ Open to **office · remote · hybrid** positions
 <br>
 
 [![Email](https://img.shields.io/badge/davids199005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davids199005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-veryutin-1990h)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davids199005-oss)
 
 </div>
