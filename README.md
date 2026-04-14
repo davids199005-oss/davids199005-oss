@@ -154,7 +154,7 @@ PvP and PvC modes, symbol selection, replay support. Clean OOP design.
 
 ### 💬 Open to Opportunities
 
-I'm looking for my first role as a **Junior Full-Stack Developer** — open to office, remote, or hybrid positions.
+I'm looking for my first role as a **Full-Stack Developer** — open to office, remote, or hybrid positions.
 
 📬 **[davids199005@gmail.com](mailto:davids199005@gmail.com)** · 🔗 **[GitHub](https://github.com/davids199005-oss)**
 
