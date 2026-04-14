@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=David%20Veryutin&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20%26%20GenAI%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+%E2%9A%A1;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+%E2%9A%A1;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80)](https://github.com/davids199005-oss)
 
