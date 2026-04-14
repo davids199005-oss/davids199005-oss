@@ -1,7 +1,7 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=70&amp;lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+%E2%9A%A1;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80)](https://github.com/davids199005-oss)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=220&amp;section=header&amp;text=David%20Veryutin&amp;fontSize=42&amp;fontColor=58a6ff&amp;fontAlignY=35&amp;desc=Full-Stack%20%26%20GenAI%20Developer&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%" />
+  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=70&amp;lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+%E2%9A%A1;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80" alt="Typing SVG" />
 <br>
 
 📍 Haifa, Israel &nbsp;•&nbsp; 📬 [davids199005@gmail.com](mailto:davids199005@gmail.com) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/david-veryutin-1990h) &nbsp;•&nbsp; 💻 [GitHub](https://github.com/davids199005-oss)
