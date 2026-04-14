@@ -200,7 +200,7 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Codeium-09B6A2?style=for-the-badge&amp;logo=codeium&amp;logoColor=white" />
+
 
 </div>
 
@@ -220,7 +220,7 @@
 
 <h2>💬 Open to Opportunities</h2>
 
-<img src="https://img.shields.io/badge/🎯_Looking_for_my_first_role_as-Junior_Full--Stack_Developer-1f6feb?style=for-the-badge&amp;labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎯_Looking_for_my_first_role_as-Full--Stack_Developer-1f6feb?style=for-the-badge&amp;labelColor=0d1117" />
 
 <br><br>
 
