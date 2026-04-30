@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=400&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=80&amp;lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+%E2%9A%A1;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
- &nbsp;•&nbsp; 📬 <a href="mailto:davids199005@gmail.com">davids199005@gmail.com</a> &nbsp;•&nbsp; 💼 <a href="https://www.linkedin.com/in/david-veryutin-1990h">LinkedIn</a> &nbsp;•&nbsp; 💻 <a href="https://github.com/davids199005-oss">GitHub</a>
+ 📬 <a href="mailto:davids199005@gmail.com">davids199005@gmail.com</a> &nbsp;•&nbsp; 💼 <a href="https://www.linkedin.com/in/david-veryutin-1990h">LinkedIn</a> &nbsp;•&nbsp; 💻 <a href="https://github.com/davids199005-oss">GitHub</a>
 
 <br>
 
