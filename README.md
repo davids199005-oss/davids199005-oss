@@ -216,18 +216,33 @@
 
 ## 🌃 About Me
 
+<sub align="center"><i>~/.config/claude/mcp_servers.json</i></sub>
+
 <div align="center">
 
-```ts
-const david = {
-  location:    "🇮🇱 Haifa, Israel · UTC+2/+3",
-  pronouns:    "he/him",
-  currentlyLearning: ["C#", "ASP.NET Core", "MCP"],
-  buildingNow: "An indie SaaS · stay tuned 🚀",
-  fuel:        ["☕ black coffee", "🎧 synthwave & lo-fi"],
-  motto:       "Ship it small, ship it often, ship it production-ready.",
-  openTo:      ["startups", "Web3", "creative tech", "AI/ML teams"],
-} as const;
+```json
+{
+  "mcpServers": {
+    "david-veryutin": {
+      "command": "developer",
+      "args": [
+        "--stack=full-stack-genai",
+        "--location=haifa,IL",
+        "--utc-offset=+2/+3",
+        "--mode=production-grade"
+      ],
+      "env": {
+        "CURRENTLY_LEARNING": "C#, ASP.NET Core, MCP",
+        "BUILDING": "indie-saas (stealth mode) 🚀",
+        "FUEL": "☕ black coffee · 🎧 Deep House",
+        "MOTTO": "ship small, ship often, ship production-grade",
+        "OPEN_TO": "startups, Web3, creative-tech, AI/ML teams"
+      },
+      "autoApprove": ["clean-architecture", "type-safety", "SOLID", "KISS"],
+      "disabled": false
+    }
+  }
+}
 ```
 
 </div>
