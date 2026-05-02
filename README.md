@@ -12,10 +12,10 @@
 
 <br>
 
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-davids199005@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-davids199005@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/david-veryutin-1990h"><img src="https://img.shields.io/badge/-LinkedIn-FF006E?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/-GitHub-A371F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://www.npmjs.com/~davids90"><img src="https://img.shields.io/badge/-npm-22D3EE?style=for-the-badge&logo=npm&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.npmjs.com/~davids90"><img src="https://img.shields.io/badge/-npm-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
 
 <br><br>
 
@@ -42,17 +42,17 @@
 <p><b>AI-Powered Reading Platform</b></p>
 <p>Book catalog · EPUB/PDF reader · RAG-based AI chat over book content · Real-time streaming · OAuth · Admin panel</p>
 <br>
-<img src="https://img.shields.io/badge/NestJS_11-22D3EE?style=flat-square&logo=nestjs&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Angular_21-22D3EE?style=flat-square&logo=angular&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NestJS_11-22D3EE?style=flat-square&logo=nestjs&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Angular_21-22D3EE?style=flat-square&logo=angular&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PostgreSQL_17-A371F7?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/pgvector-A371F7?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=flat-square&logo=socketdotio&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=flat-square&logo=socketdotio&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TypeORM-A371F7?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/JWT-FF006E?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OAuth_2.0-FF006E?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PrimeNG_21-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=0d1117" />
 </div>
 
 </td>
@@ -60,18 +60,18 @@
 
 <h3 align="center">📦 Xpressify</h3>
 <div align="center">
-<a href="https://www.npmjs.com/package/xpressify"><img src="https://img.shields.io/badge/✅_PUBLISHED_ON_NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.npmjs.com/package/xpressify"><img src="https://img.shields.io/badge/✅_PUBLISHED_ON_NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
 <br><br>
 <p><b>Modern CLI for Express + TypeScript Projects</b></p>
 <p>Scaffold production-ready Express APIs (ESM · helmet · cors · rate-limit) · Generators for routes / middleware / DTOs / tests · Optional zod / jwt / docker / pino</p>
 <br>
-<img src="https://img.shields.io/badge/TypeScript_6-22D3EE?style=flat-square&logo=typescript&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript_6-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Node.js_≥20-A371F7?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Express-FF006E?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Commander-22D3EE?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/tsup-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vitest-22D3EE?style=flat-square&logo=vitest&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Vitest-22D3EE?style=flat-square&logo=vitest&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Handlebars-A371F7?style=flat-square&logo=handlebarsdotjs&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MIT-FF006E?style=flat-square&labelColor=0d1117" />
 </div>
@@ -88,16 +88,16 @@
 <p><b>Full-Stack Travel Platform</b></p>
 <p>Vacation booking · AI recommendations via GPT-4o-mini · MCP server integration · Admin panel with charts & CSV · Dockerized with Nginx</p>
 <br>
-<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Express_5-A371F7?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MySQL-A371F7?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Redux-FF006E?style=flat-square&logo=redux&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MCP-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Nginx-A371F7?style=flat-square&logo=nginx&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AntD-22D3EE?style=flat-square&logo=antdesign&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AntD-22D3EE?style=flat-square&logo=antdesign&logoColor=ffffff&labelColor=0d1117" />
 </div>
 
 </td>
@@ -110,8 +110,8 @@
 <p><b>Crypto Analytics Dashboard</b></p>
 <p>Real-time market data · Coin details · Chart reports · AI-powered buy/sell recommendations</p>
 <br>
-<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&logo=typescript&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-FF006E?style=flat-square&logo=redux&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MUI-A371F7?style=flat-square&logo=mui&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Recharts-A371F7?style=flat-square&labelColor=0d1117" />
@@ -137,7 +137,7 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,materialui,tailwind&theme=dark" /></a>
 <br><br>
-<img src="https://img.shields.io/badge/PrimeNG-22D3EE?style=for-the-badge&logo=primeng&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PrimeNG-22D3EE?style=for-the-badge&logo=primeng&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Ant_Design-FF006E?style=for-the-badge&logo=antdesign&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>⚙️ Backend</h3>
@@ -149,9 +149,9 @@
 <h3>🤖 AI & GenAI</h3>
 
 <img src="https://img.shields.io/badge/OpenAI-FF006E?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Anthropic_SDK-22D3EE?style=for-the-badge&logo=anthropic&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Anthropic_SDK-22D3EE?style=for-the-badge&logo=anthropic&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Cursor_SDK-A371F7?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&logo=langchain&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&logo=langchain&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CrewAI-FF006E?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/AutoGen-A371F7?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&labelColor=0d1117" />
@@ -162,7 +162,7 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" /></a>
 <br><br>
-<img src="https://img.shields.io/badge/NumPy-22D3EE?style=for-the-badge&logo=numpy&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NumPy-22D3EE?style=for-the-badge&logo=numpy&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Pandas-A371F7?style=for-the-badge&logo=pandas&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Keras-FF006E?style=for-the-badge&logo=keras&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Matplotlib-22D3EE?style=for-the-badge&labelColor=0d1117" />
@@ -179,7 +179,7 @@
 <br><br>
 <img src="https://img.shields.io/badge/TypeORM-FF006E?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Mongoose-A371F7?style=for-the-badge&logo=mongoose&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQLAlchemy-22D3EE?style=for-the-badge&logo=sqlalchemy&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQLAlchemy-22D3EE?style=for-the-badge&logo=sqlalchemy&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Zod-A371F7?style=for-the-badge&logo=zod&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>🔐 Security</h3>
@@ -188,7 +188,7 @@
 <img src="https://img.shields.io/badge/OAuth_2.0-22D3EE?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/RBAC-A371F7?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OWASP_Top_10-FF006E?style=for-the-badge&logo=owasp&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Passport.js-22D3EE?style=for-the-badge&logo=passport&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Passport.js-22D3EE?style=for-the-badge&logo=passport&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>🐳 DevOps & Infrastructure</h3>
 
@@ -196,19 +196,19 @@
 
 <h3>📡 Realtime</h3>
 
-<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=for-the-badge&logo=socketdotio&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=for-the-badge&logo=socketdotio&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>🧰 Workflow & AI Tools</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 <br><br>
 <img src="https://img.shields.io/badge/Cursor-FF006E?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Claude_Code-22D3EE?style=for-the-badge&logo=anthropic&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Claude_Code-22D3EE?style=for-the-badge&logo=anthropic&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/OpenAI_Codex-A371F7?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-FF006E?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Codeium-22D3EE?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/n8n-A371F7?style=for-the-badge&logo=n8n&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Playwright-22D3EE?style=for-the-badge&logo=playwright&logoColor=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Playwright-22D3EE?style=for-the-badge&logo=playwright&logoColor=ffffff&labelColor=0d1117" />
 
 </div>
 
@@ -246,24 +246,15 @@ const david = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
 
-## 📊 GitHub Stats
+## 💬 Top Languages by Volume
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api?username=davids199005-oss&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&title_color=22D3EE&icon_color=FF006E" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davids199005-oss&theme=synthwave&hide_border=true&layout=compact&langs_count=8&title_color=22D3EE" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davids199005-oss&theme=synthwave&hide_border=true&layout=compact&langs_count=8&card_width=400&title_color=22D3EE" alt="Top Languages" /></a>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=davids199005-oss&theme=synthwave&hide_border=true&stroke=22D3EE&fire=FF006E&currStreakLabel=22D3EE" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davids199005-oss&theme=synthwave&hide_border=true&area=true&color=22D3EE&line=FF006E&point=A371F7&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=davids199005-oss&theme=radical&column=8&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+<sub><i>Calculated by GitHub from bytes of source code in public non-forked repositories — reflects code volume, not skill proficiency.</i></sub>
 
 </div>
 
@@ -282,7 +273,7 @@ const david = {
 
 <br>
 
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-Drop_me_a_line-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-Drop_me_a_line-22D3EE?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/david-veryutin-1990h"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-FF006E?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/-Follow_on_GitHub-A371F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
 
