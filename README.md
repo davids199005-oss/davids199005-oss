@@ -250,7 +250,7 @@ const david = {
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davids199005-oss&theme=synthwave&hide_border=true&layout=compact&langs_count=8&card_width=400&title_color=22D3EE" alt="Top Languages" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" alt="Top Languages" width="400" /></a>
 
 <br>
 
