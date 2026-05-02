@@ -1,1 +1,39 @@
 
+name: Update README cards
+
+on:
+  # Ручной запуск через UI (Actions → Run workflow). Используй сразу после коммита.
+  workflow_dispatch:
+  # Автоматический ежедневный запуск в 3:00 UTC (= 5:00/6:00 по Хайфе в зависимости от DST).
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    # Без этого permission GITHUB_TOKEN не сможет пушить SVG обратно в репо.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          # Все параметры, что были в URL, переезжают сюда. card_width контролирует ширину.
+          options: username=davids199005-oss&theme=synthwave&hide_border=true&layout=compact&langs_count=8&card_width=400&title_color=22D3EE
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          # `|| exit 0` — не падать, если SVG не изменился (cron запустился, а stats те же).
+          git diff --cached --quiet || git commit -m "chore(readme): update top-langs card"
+          git push
