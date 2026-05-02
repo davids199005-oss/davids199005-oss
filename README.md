@@ -15,7 +15,7 @@
 <a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-davids199005@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/david-veryutin-1990h"><img src="https://img.shields.io/badge/-LinkedIn-FF006E?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" /></a>
 <a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/-GitHub-A371F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="[https://www.npmjs.com/~davids199005](https://www.npmjs.com/~davids90)"><img src="https://img.shields.io/badge/-npm-22D3EE?style=for-the-badge&logo=npm&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.npmjs.com/~davids90"><img src="https://img.shields.io/badge/-npm-22D3EE?style=for-the-badge&logo=npm&logoColor=0d1117&labelColor=0d1117" /></a>
 
 <br><br>
 
