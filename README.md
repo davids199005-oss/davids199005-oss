@@ -2,9 +2,7 @@
 
 # 👋 Hey, I'm David Veryutin
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Full-Stack+%26+GenAI+Developer" alt="Typing SVG" />
-
-<br>
+<h2 align="center">Full-Stack & GenAI Developer</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+to+NPM+packages+%F0%9F%93%A6;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80" alt="Typing SVG" />
 
