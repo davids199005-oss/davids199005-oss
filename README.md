@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm David Veryutin
 
-<h2 align="center">Full-Stack & GenAI Developer</h2>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:A371F7&height=100&section=header&text=Full-Stack%20%26%20GenAI%20Developer&fontSize=32&fontAlignY=40&fontColor=ffffff" alt="Full-Stack & GenAI Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+full-stack+apps+with+AI+superpowers+%F0%9F%A7%A0;From+REST+APIs+to+RAG+pipelines+to+NPM+packages+%F0%9F%93%A6;Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade+%F0%9F%9A%80" alt="Typing SVG" />
 
