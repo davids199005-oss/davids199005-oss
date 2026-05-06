@@ -137,14 +137,11 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,materialui,tailwind&theme=dark" /></a>
 <br><br>
-<img src="https://img.shields.io/badge/PrimeNG-22D3EE?style=for-the-badge&logo=primeng&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Ant_Design-FF006E?style=for-the-badge&logo=antdesign&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>⚙️ Backend</h3>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,dotnet&theme=dark" /></a>
 <br><br>
-<img src="https://img.shields.io/badge/ASP.NET_Core-A371F7?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=0d1117" />
 
 <h3>🤖 AI & GenAI</h3>
 
