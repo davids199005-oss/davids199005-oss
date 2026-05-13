@@ -261,7 +261,6 @@
         "--mode=production-grade"
       ],
       "env": {
-        "CURRENTLY_LEARNING": "C#, ASP.NET Core, MCP",
         "BUILDING": "indie-saas (stealth mode) 🚀",
         "FUEL": "☕ black coffee · 🎧 Deep House",
         "MOTTO": "ship small, ship often, ship production-grade",
