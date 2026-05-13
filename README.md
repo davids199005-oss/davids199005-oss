@@ -156,33 +156,15 @@
 
 <h3>💬 Languages</h3>
 
-<img src="https://img.shields.io/badge/Python-22D3EE?style=flat-square&logo=python&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-A371F7?style=flat-square&logo=javascript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-FF006E?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/C%23-22D3EE?style=flat-square&logo=csharp&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/HTML5-A371F7?style=flat-square&logo=html5&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CSS3-FF006E?style=flat-square&logo=css3&logoColor=ffffff&labelColor=0d1117" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css&theme=dark" /></a>
 
 <h3>🎨 Frontend</h3>
 
-<img src="https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Angular-A371F7?style=flat-square&logo=angular&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Next.js-FF006E?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redux-22D3EE?style=flat-square&logo=redux&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MUI-A371F7?style=flat-square&logo=mui&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Ant_Design-FF006E?style=flat-square&logo=antdesign&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PrimeNG-22D3EE?style=flat-square&logo=primeng&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tailwind-A371F7?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=0d1117" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,materialui,tailwind&theme=dark" /></a>
 
 <h3>⚙️ Backend</h3>
 
-<img src="https://img.shields.io/badge/Node.js-22D3EE?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express-A371F7?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/NestJS-FF006E?style=flat-square&logo=nestjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&logo=fastapi&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Flask-A371F7?style=flat-square&logo=flask&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Django-FF006E?style=flat-square&logo=django&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ASP.NET_Core-22D3EE?style=flat-square&logo=dotnet&logoColor=ffffff&labelColor=0d1117" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,dotnet&theme=dark" /></a>
 
 <h3>🤖 AI & GenAI</h3>
 
@@ -258,6 +240,7 @@
 <img src="https://img.shields.io/badge/VS_Code-A371F7?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=0d1117" />
 
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
 
 ## 🌃 About Me
