@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">🦉 Project Athena</h3>
 <div align="center">
@@ -56,30 +56,29 @@
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<h3 align="center">📦 Xpressify</h3>
+<h3 align="center">💭 Inkstream</h3>
 <div align="center">
-<a href="https://www.npmjs.com/package/xpressify"><img src="https://img.shields.io/badge/✅_PUBLISHED_ON_NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
+<a href="https://github.com/davids199005-oss/Inkstream"><img src="https://img.shields.io/badge/💬_AI_CHAT_PLATFORM-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
 <br><br>
-<p><b>Modern CLI for Express + TypeScript Projects</b></p>
-<p>Scaffold production-ready Express APIs (ESM · helmet · cors · rate-limit) · Generators for routes / middleware / DTOs / tests · Optional zod / jwt / docker / pino</p>
+<p><b>AI Chat with Streaming Responses</b></p>
+<p>Modern web client · OpenAI-backed API · Real-time SSE streaming · Async chat history · Clean architecture with typed contracts end-to-end</p>
 <br>
-<img src="https://img.shields.io/badge/TypeScript_6-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js_≥20-A371F7?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express-FF006E?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Commander-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/tsup-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vitest-22D3EE?style=flat-square&logo=vitest&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Handlebars-A371F7?style=flat-square&logo=handlebarsdotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MIT-FF006E?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&logo=fastapi&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-A371F7?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SSE-FF006E?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Pydantic-A371F7?style=flat-square&logo=pydantic&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MongoDB-A371F7?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PyMongo-22D3EE?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JWT-FF006E?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=0d1117" />
 </div>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3 align="center">✈️ Vacanza</h3>
 <div align="center">
@@ -101,7 +100,30 @@
 </div>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">📦 Xpressify</h3>
+<div align="center">
+<a href="https://www.npmjs.com/package/xpressify"><img src="https://img.shields.io/badge/✅_PUBLISHED_ON_NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
+<br><br>
+<p><b>Modern CLI for Express + TypeScript Projects</b></p>
+<p>Scaffold production-ready Express APIs (ESM · helmet · cors · rate-limit) · Generators for routes / middleware / DTOs / tests · Optional zod / jwt / docker / pino</p>
+<br>
+<img src="https://img.shields.io/badge/TypeScript_6-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js_≥20-A371F7?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Express-FF006E?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Commander-22D3EE?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/tsup-FF006E?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Vitest-22D3EE?style=flat-square&logo=vitest&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Handlebars-A371F7?style=flat-square&logo=handlebarsdotjs&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MIT-FF006E?style=flat-square&labelColor=0d1117" />
+</div>
+
+</td>
+<td width="33%" valign="top">
 
 <h3 align="center">📊 CryptoGraph</h3>
 <div align="center">
@@ -118,6 +140,11 @@
 <img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Vite-FF006E?style=flat-square&logo=vite&logoColor=ffffff&labelColor=0d1117" />
 </div>
+
+</td>
+<td width="33%" valign="top">
+
+<!-- placeholder cell to keep 3-column grid -->
 
 </td>
 </tr>
