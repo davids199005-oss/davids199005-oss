@@ -38,9 +38,11 @@
 <h3 align="center">🦉 Project Athena</h3>
 <div align="center">
 <a href="https://github.com/davids199005-oss/Project-Athena"><img src="https://img.shields.io/badge/⭐_FLAGSHIP_PROJECT-FF006E?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://project-athena.net/"><img src="https://img.shields.io/badge/🌐_LIVE_APP-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
 <br><br>
 <p><b>AI-Powered Reading Platform</b></p>
-<p>Book catalog · EPUB/PDF reader · RAG-based AI chat over book content · Real-time streaming · OAuth · Admin panel</p>
+<p>Production-ready reading platform with book catalog · EPUB/PDF reader · RAG chat over book content · real-time streaming · OAuth · admin panel</p>
+<p><a href="https://project-athena.net/">Visit live app</a> · <a href="https://github.com/davids199005-oss/Project-Athena">View source code</a></p>
 <br>
 <img src="https://img.shields.io/badge/NestJS_11-22D3EE?style=flat-square&logo=nestjs&logoColor=ffffff&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Angular_21-22D3EE?style=flat-square&logo=angular&logoColor=ffffff&labelColor=0d1117" />
