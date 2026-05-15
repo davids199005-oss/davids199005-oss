@@ -129,7 +129,7 @@
 
 <h3 align="center">📊 CryptoGraph</h3>
 <div align="center">
-<a href="https://davids199005-oss.github.io/CryptoGraph/"><img src="https://img.shields.io/badge/🔗_LIVE_DEMO-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://cryptograph-7f18a.web.app/Home/"><img src="https://img.shields.io/badge/🔗_LIVE_DEMO-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
 <br><br>
 <p><b>Crypto Analytics Dashboard</b></p>
 <p>Real-time market data · Coin details · Chart reports · AI-powered buy/sell recommendations</p>
