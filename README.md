@@ -166,7 +166,7 @@
 
 <h3>⚙️ Backend</h3>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,dotnet&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,&theme=dark" /></a>
 
 <h3>🤖 AI & GenAI</h3>
 
