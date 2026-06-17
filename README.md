@@ -158,7 +158,7 @@
 
 <h3>💬 Languages</h3>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,cs,html,css&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" /></a>
 
 <h3>🎨 Frontend</h3>
 
