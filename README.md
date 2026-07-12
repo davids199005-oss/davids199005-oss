@@ -3,22 +3,16 @@
   Palette: cyan #22D3EE · magenta #FF006E · violet #A371F7 on near-black #05010d
   For: David Veryutin / davids199005-oss
   Layout: compact — header (glitch name + matrix rain) + terminal block, minimal rest
-  Animated banners via readme-svg-typing-generator.vercel.app (matrix / glitch / neon engines)
+  Animated banners via capsule-render + readme-typing-svg (reliable, GitHub-safe)
 -->
 
 <div align="center">
 
-<!-- GLITCH NAME (chromatic split) -->
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=DAVID+VERYUTIN&animation=glitch&color=22D3EE&background=00000000&font=monospace&size=48&width=800&height=90&center=true&vCenter=true&duration=4000&repeat=true" alt="David Veryutin" />
+<!-- HEADER — cyberpunk gradient name (capsule-render, reliable) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&section=header&text=DAVID%20VERYUTIN&fontSize=56&fontColor=ffffff&color=0:22D3EE,50:A371F7,100:FF006E&stroke=22D3EE&strokeWidth=1&animation=fadeIn" alt="David Veryutin" width="100%" />
 
-<!-- MATRIX DIGITAL RAIN (cyberpunk colors) -->
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E_+software_developer.exe+--run;%3E_+building+software+end+to+end;%3E_+clean+architecture+%C2%B7+type-safe&animation=matrix&color=A371F7&background=00000000&font=monospace&size=18&width=800&height=120&center=true&vCenter=true&multiline=true&duration=3500&repeat=true" alt="matrix rain" />
-
-<!--
-  FALLBACK (if the matrix service is slow/down, replace the two images above with this
-  proven readme-typing-svg banner — same cyberpunk vibe, no matrix rain):
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=DAVID+VERYUTIN;%3E_+software+developer;%3E_+clean+architecture+%C2%B7+type-safe" alt="David Veryutin" />
--->
+<!-- TERMINAL TYPING (readme-typing-svg, reliable — same one already in your profile) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E_+software_developer.exe+--run;%3E_+building+software+end+to+end;%3E_+clean+architecture+%C2%B7+type-safe" alt="terminal" /></a>
 
 <br>
 
