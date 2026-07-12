@@ -1,329 +1,168 @@
 <!--
-  Theme: Cyberpunk + Creative Junior
-  Palette: cyan (#22D3EE) · magenta (#FF006E) · violet (#A371F7) on GitHub dark (#0d1117)
-  Generated for: David Veryutin / davids199005-oss
+  Theme: Minimal Editorial
+  Accent: GitHub blue (#2F81F7) on GitHub dark (#0d1117)
+  For: David Veryutin / davids199005-oss
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A371F7,100:FF006E&height=240&section=header&text=DAVID%20VERYUTIN&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20%C2%B7%20GenAI%20Developer&descSize=22&descAlign=50&descAlignY=62&animation=fadeIn" alt="David Veryutin" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=%E2%9A%A1+Shipping+AI-powered+apps+from+idea+to+npm;%F0%9F%A7%A0+RAG+pipelines+%C2%B7+RESTful+APIs+%C2%B7+Real-time+streaming;%F0%9F%9A%80+Clean+architecture+%C2%B7+Type+safety+%C2%B7+Production+grade" alt="Typing tagline" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=100%" />
 
 <br>
 
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-davids199005@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/david-veryutin-1990h"><img src="https://img.shields.io/badge/-LinkedIn-FF006E?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/-GitHub-A371F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://www.npmjs.com/~davids90"><img src="https://img.shields.io/badge/-npm-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
+# David Veryutin
+
+### AI/ML &amp; Backend Engineer
+
+<br>
+
+<samp>Building production-grade backends and AI systems —<br>distributed services, RAG pipelines, clean architecture.</samp>
+
+<br>
+
+<samp>Haifa, IL&nbsp;&nbsp;·&nbsp;&nbsp;UTC +2 / +3&nbsp;&nbsp;·&nbsp;&nbsp;Full Stack GenAI Developer</samp>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⚡_~1%2C302_Academic_Hours-three_intensive_programs-FF006E?style=for-the-badge&labelColor=0d1117" />
-
-🎓 <b>ECOM School</b> — AI Developer (Python · ML · DL · NLP) · 427 hrs<br>
-🎓 <b>John Bryce College</b> — Full Stack & GenAI (JS/TS · Node.js · React · GenAI Agents) · 830 hrs<br>
-🎓 <b>Udemy</b> — Python Full Course (Django · Data Science · ML) · 45.5 hrs
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">🦉 Project Athena</h3>
-<div align="center">
-<a href="https://github.com/davids199005-oss/Project-Athena"><img src="https://img.shields.io/badge/⭐_FLAGSHIP_PROJECT-FF006E?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://project-athena.net/"><img src="https://img.shields.io/badge/🌐_LIVE_APP-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
-<br><br>
-<p><b>AI-Powered Reading Platform</b></p>
-<p>Production-ready reading platform with book catalog · EPUB/PDF reader · RAG chat over book content · real-time streaming · OAuth · admin panel</p>
-<p><a href="https://project-athena.net/">Visit live app</a> · <a href="https://github.com/davids199005-oss/Project-Athena">View source code</a></p>
-<br>
-<img src="https://img.shields.io/badge/NestJS_11-22D3EE?style=flat-square&logo=nestjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Angular_21-22D3EE?style=flat-square&logo=angular&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PostgreSQL_17-A371F7?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/pgvector-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=flat-square&logo=socketdotio&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeORM-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JWT-FF006E?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OAuth_2.0-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PrimeNG_21-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=0d1117" />
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">💭 Inkstream</h3>
-<div align="center">
-<a href="https://github.com/davids199005-oss/Inkstream"><img src="https://img.shields.io/badge/💬_AI_CHAT_PLATFORM-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
-<br><br>
-<p><b>AI Chat with Streaming Responses</b></p>
-<p>Modern web client · OpenAI-backed API · Real-time SSE streaming · Async chat history · Clean architecture with typed contracts end-to-end</p>
-<br>
-<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&logo=fastapi&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-A371F7?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Tailwind-22D3EE?style=flat-square&logo=tailwindcss&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SSE-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Pydantic-A371F7?style=flat-square&logo=pydantic&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MongoDB-A371F7?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PyMongo-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JWT-FF006E?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=0d1117" />
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">✈️ Vacanza</h3>
-<div align="center">
-<a href="https://github.com/davids199005-oss/Vacanza"><img src="https://img.shields.io/badge/🎓_CAPSTONE_PROJECT-A371F7?style=for-the-badge&labelColor=0d1117" /></a>
-<br><br>
-<p><b>Full-Stack Travel Platform</b></p>
-<p>Vacation booking · AI recommendations via GPT-4o-mini · MCP server integration · Admin panel with charts & CSV · Dockerized with Nginx</p>
-<br>
-<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express_5-A371F7?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-A371F7?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redux-FF006E?style=flat-square&logo=redux&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MCP-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Nginx-A371F7?style=flat-square&logo=nginx&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AntD-22D3EE?style=flat-square&logo=antdesign&logoColor=ffffff&labelColor=0d1117" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">📦 Xpressify</h3>
-<div align="center">
-<a href="https://www.npmjs.com/package/xpressify"><img src="https://img.shields.io/badge/✅_PUBLISHED_ON_NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=ffffff&labelColor=0d1117" /></a>
-<br><br>
-<p><b>Modern CLI for Express + TypeScript Projects</b></p>
-<p>Scaffold production-ready Express APIs (ESM · helmet · cors · rate-limit) · Generators for routes / middleware / DTOs / tests · Optional zod / jwt / docker / pino</p>
-<br>
-<img src="https://img.shields.io/badge/TypeScript_6-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js_≥20-A371F7?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Express-FF006E?style=flat-square&logo=express&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Commander-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/tsup-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vitest-22D3EE?style=flat-square&logo=vitest&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Handlebars-A371F7?style=flat-square&logo=handlebarsdotjs&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MIT-FF006E?style=flat-square&labelColor=0d1117" />
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">📊 CryptoGraph</h3>
-<div align="center">
-<a href="https://cryptograph-7f18a.web.app/Home/"><img src="https://img.shields.io/badge/🔗_LIVE_DEMO-22D3EE?style=for-the-badge&labelColor=0d1117" /></a>
-<br><br>
-<p><b>Crypto Analytics Dashboard</b></p>
-<p>Real-time market data · Coin details · Chart reports · AI-powered buy/sell recommendations</p>
-<br>
-<img src="https://img.shields.io/badge/React_19-22D3EE?style=flat-square&logo=react&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-22D3EE?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-FF006E?style=flat-square&logo=redux&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MUI-A371F7?style=flat-square&logo=mui&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Recharts-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenAI-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Vite-FF006E?style=flat-square&logo=vite&logoColor=ffffff&labelColor=0d1117" />
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<!-- placeholder cell to keep 3-column grid -->
-
-</td>
-</tr>
-</table>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-
-<h3>💬 Languages</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" /></a>
-
-<h3>🎨 Frontend</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,angular,nextjs,redux,materialui,tailwind&theme=dark" /></a>
-
-<h3>⚙️ Backend</h3>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,&theme=dark" /></a>
-
-<h3>🤖 AI & GenAI</h3>
-
-<img src="https://img.shields.io/badge/OpenAI-22D3EE?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Anthropic_SDK-A371F7?style=flat-square&logo=anthropic&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Cursor_SDK-FF006E?style=flat-square&logo=cursor&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LangChain-22D3EE?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CrewAI-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AutoGen-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MCP-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/RAG-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/pgvector-FF006E?style=flat-square&labelColor=0d1117" />
-
-<h3>📊 ML / Data Science</h3>
-
-<img src="https://img.shields.io/badge/scikit--learn-22D3EE?style=flat-square&logo=scikitlearn&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TensorFlow-A371F7?style=flat-square&logo=tensorflow&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Keras-FF006E?style=flat-square&logo=keras&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/NumPy-22D3EE?style=flat-square&logo=numpy&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Pandas-A371F7?style=flat-square&logo=pandas&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Matplotlib-FF006E?style=flat-square&logo=matplotlib&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Seaborn-22D3EE?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Jupyter-A371F7?style=flat-square&logo=jupyter&logoColor=ffffff&labelColor=0d1117" />
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://img.shields.io/badge/PostgreSQL-22D3EE?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MySQL-A371F7?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQLite-FF006E?style=flat-square&logo=sqlite&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redis-A371F7?style=flat-square&logo=redis&logoColor=ffffff&labelColor=0d1117" />
-
-<h3>🔗 ORM & Validation</h3>
-
-<img src="https://img.shields.io/badge/Prisma-22D3EE?style=flat-square&logo=prisma&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeORM-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Mongoose-FF006E?style=flat-square&logo=mongoose&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SQLAlchemy-22D3EE?style=flat-square&logo=sqlalchemy&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Zod-A371F7?style=flat-square&logo=zod&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Pydantic-FF006E?style=flat-square&logo=pydantic&logoColor=ffffff&labelColor=0d1117" />
-
-<h3>🔐 Security</h3>
-
-<img src="https://img.shields.io/badge/JWT-22D3EE?style=flat-square&logo=jsonwebtokens&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OAuth_2.0-A371F7?style=flat-square&logo=oauth&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/RBAC-FF006E?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OWASP_Top_10-22D3EE?style=flat-square&logo=owasp&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Passport.js-A371F7?style=flat-square&logo=passport&logoColor=ffffff&labelColor=0d1117" />
-
-<h3>🐳 DevOps & Infrastructure</h3>
-
-<img src="https://img.shields.io/badge/Docker-22D3EE?style=flat-square&logo=docker&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Nginx-A371F7?style=flat-square&logo=nginx&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AWS-FF006E?style=flat-square&logo=amazonwebservices&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Git-22D3EE?style=flat-square&logo=git&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub-A371F7?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub_Actions-FF006E?style=flat-square&logo=githubactions&logoColor=ffffff&labelColor=0d1117" />
-
-<h3>📡 Realtime</h3>
-
-<img src="https://img.shields.io/badge/Socket.IO-22D3EE?style=flat-square&logo=socketdotio&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/SSE-A371F7?style=flat-square&labelColor=0d1117" />
-
-<h3>🧰 Workflow & AI Tools</h3>
-
-<img src="https://img.shields.io/badge/Cursor-22D3EE?style=flat-square&logo=cursor&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Claude_Code-A371F7?style=flat-square&logo=anthropic&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-FF006E?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-22D3EE?style=flat-square&logo=githubcopilot&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Codeium-A371F7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/n8n-FF006E?style=flat-square&logo=n8n&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Playwright-22D3EE?style=flat-square&logo=playwright&logoColor=ffffff&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/VS_Code-A371F7?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=0d1117" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
-
-## 🌃 About Me
-
-<sub align="center"><i>~/.config/claude/mcp_servers.json</i></sub>
-
-<div align="center">
-
-```json
-{
-  "mcpServers": {
-    "david-veryutin": {
-      "command": "developer",
-      "args": [
-        "--stack=full-stack-genai",
-        "--location=haifa,IL",
-        "--utc-offset=+2/+3",
-        "--mode=production-grade"
-      ],
-      "env": {
-        "BUILDING": "indie-saas (stealth mode) 🚀",
-        "FUEL": "☕ black coffee · 🎧 Deep House",
-        "MOTTO": "ship small, ship often, ship production-grade",
-        "OPEN_TO": "startups, Web3, creative-tech, AI/ML teams"
-      },
-      "autoApprove": ["clean-architecture", "type-safety", "SOLID", "KISS"],
-      "disabled": false
-    }
-  }
-}
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
-
-## 🌍 Languages I Speak
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🇷🇺_Russian-Native-22D3EE?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🇮🇱_Hebrew-Fluent-FF006E?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🇬🇧_English-Professional_Working-A371F7?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
-
-## 💬 Top Languages by Volume
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" alt="Top Languages" width="400" /></a>
+[**Email**](mailto:davids199005@gmail.com)&nbsp;&nbsp;·&nbsp;&nbsp;[**LinkedIn**](https://www.linkedin.com/in/david-veryutin-1990h)&nbsp;&nbsp;·&nbsp;&nbsp;[**GitHub**](https://github.com/davids199005-oss)&nbsp;&nbsp;·&nbsp;&nbsp;[**npm**](https://www.npmjs.com/~davids90)
 
 <br>
 
-<sub><i>Calculated by GitHub from bytes of source code in public non-forked repositories — reflects code volume, not skill proficiency.</i></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=3" width="100%" />
-
-<div align="center">
-
-## 💬 Open to Opportunities
-
-<img src="https://img.shields.io/badge/🎯_Looking_for_my_first_role_as-Full--Stack_Developer-FF006E?style=for-the-badge&labelColor=0d1117" />
-
-<br><br>
-
-🚀 Open to <b>office · remote · hybrid</b> · Haifa & Tel Aviv area + remote worldwide<br>
-⚡ Aiming for <b>startups · Web3 · creative tech · AI/ML teams</b>
-
-<br>
-
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/-Drop_me_a_line-22D3EE?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/david-veryutin-1990h"><img src="https://img.shields.io/badge/-Connect_on_LinkedIn-FF006E?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" /></a>
-<a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/-Follow_on_GitHub-A371F7?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:A371F7,100:22D3EE&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9A%A1&fontSize=22&fontAlignY=70&fontColor=ffffff" alt="Thanks for stopping by" />
+## Focus
+
+I design and build the parts of a system that have to be correct under load — data flows, service boundaries, and the AI layer on top. My work leans on clean architecture, strict type safety, and distributed-systems patterns (Outbox, idempotency, event-driven messaging). I care about production-grade code, not demos.
+
+<br>
+
+## Stack
+
+<samp>
+
+**Languages**&nbsp;&nbsp;— &nbsp;Python&nbsp; · &nbsp;TypeScript&nbsp; · &nbsp;Go&nbsp; · &nbsp;Rust
+
+**Backend**&nbsp;&nbsp;— &nbsp;NestJS&nbsp; · &nbsp;FastAPI&nbsp; · &nbsp;Node.js / Express&nbsp; · &nbsp;Flask&nbsp; · &nbsp;Django
+
+**AI / ML**&nbsp;&nbsp;— &nbsp;RAG&nbsp; · &nbsp;pgvector&nbsp; · &nbsp;LangChain&nbsp; · &nbsp;OpenAI&nbsp; · &nbsp;Anthropic SDK&nbsp; · &nbsp;MCP
+
+**Data**&nbsp;&nbsp;— &nbsp;PostgreSQL&nbsp; · &nbsp;MongoDB&nbsp; · &nbsp;Redis&nbsp; · &nbsp;MySQL&nbsp; · &nbsp;SQLite
+
+**Messaging**&nbsp;&nbsp;— &nbsp;Kafka&nbsp; · &nbsp;RabbitMQ&nbsp; · &nbsp;BullMQ&nbsp; · &nbsp;Socket.IO
+
+**Frontend**&nbsp;&nbsp;— &nbsp;React&nbsp; · &nbsp;Angular&nbsp; · &nbsp;Next.js&nbsp; · &nbsp;Redux&nbsp; · &nbsp;Tailwind
+
+**Infra**&nbsp;&nbsp;— &nbsp;Docker&nbsp; · &nbsp;Nginx&nbsp; · &nbsp;AWS&nbsp; · &nbsp;GitHub Actions&nbsp; · &nbsp;Kubernetes
+
+**Practice**&nbsp;&nbsp;— &nbsp;Clean Architecture&nbsp; · &nbsp;SOLID&nbsp; · &nbsp;strict TypeScript&nbsp; · &nbsp;OWASP Top 10
+
+</samp>
+
+<br>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1&width=100%" /></div>
+
+<br>
+
+## Selected work
+
+<samp>
+
+**[Project Athena](https://github.com/davids199005-oss/Project-Athena)** &nbsp;—&nbsp; [live](https://project-athena.net/)
+AI-powered reading platform. EPUB/PDF reader, RAG chat over book content, real-time streaming, OAuth, admin panel.
+<sub>NestJS 11 · PostgreSQL 17 · pgvector · OpenAI · Socket.IO · Angular 21</sub>
+
+<br>
+
+**[Inkstream](https://github.com/davids199005-oss/Inkstream)**
+AI chat platform with streaming responses. OpenAI-backed API, real-time SSE, async history, typed contracts end-to-end.
+<sub>FastAPI · Pydantic · MongoDB · JWT · React 19 · TypeScript</sub>
+
+<br>
+
+**[Vacanza](https://github.com/davids199005-oss/Vacanza)** &nbsp;—&nbsp; capstone
+Full-stack travel platform. Vacation booking, GPT-4o-mini recommendations, MCP server, admin panel, dockerized.
+<sub>React 19 · Express 5 · MySQL · OpenAI · MCP · Docker · Nginx</sub>
+
+<br>
+
+**[Xpressify](https://www.npmjs.com/package/xpressify)** &nbsp;—&nbsp; published on npm
+Modern CLI for scaffolding production-ready Express + TypeScript APIs. Generators for routes, middleware, DTOs, tests.
+<sub>TypeScript 6 · Node.js ≥20 · Zod · Commander · tsup · Vitest</sub>
+
+<br>
+
+**[CryptoGraph](https://cryptograph-7f18a.web.app/Home/)** &nbsp;—&nbsp; live
+Crypto analytics dashboard. Real-time market data, coin details, chart reports, AI buy/sell recommendations.
+<sub>React 19 · TypeScript · Redux Toolkit · MUI · Recharts · OpenAI</sub>
+
+</samp>
+
+<br>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1&width=100%" /></div>
+
+<br>
+
+## Background
+
+<samp>
+
+~1,327 hours of formal training across three intensive programs, on top of a humanities BA.
+
+**ECOM School** &nbsp;—&nbsp; AI Developer &nbsp;·&nbsp; Python · ML / DL / NLP &nbsp;·&nbsp; 427 hrs
+**John Bryce College** &nbsp;—&nbsp; Full Stack &amp; GenAI &nbsp;·&nbsp; JS/TS · Node.js · GenAI Agents &nbsp;·&nbsp; 830 hrs
+**Udemy** &nbsp;—&nbsp; Python Full Course · Go · Rust &nbsp;·&nbsp; ~70 hrs
+**The Hebrew University of Jerusalem** &nbsp;—&nbsp; BA, Criminology &amp; Social Science
+
+</samp>
+
+<br>
+
+## Languages
+
+<samp>Russian — native&nbsp;&nbsp;·&nbsp;&nbsp;Hebrew — fluent&nbsp;&nbsp;·&nbsp;&nbsp;English — professional working</samp>
+
+<br>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=21262d&height=1&width=100%" /></div>
+
+<br>
+
+## Most-used languages
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" alt="Top languages by code volume" width="380" /></a>
+
+<br>
+
+<sub><i>By bytes of source in public, non-forked repositories — code volume, not proficiency.</i></sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2F81F7&height=2&width=100%" />
+
+<br>
+
+### Open to AI/ML &amp; Backend roles
+
+<samp>Office · remote · hybrid&nbsp;&nbsp;·&nbsp;&nbsp;Haifa &amp; Tel Aviv + remote worldwide</samp>
+
+<br>
+
+[**Get in touch →**](mailto:davids199005@gmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=100%" />
+
+</div>
