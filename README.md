@@ -12,7 +12,7 @@
 
 # David Veryutin
 
-### AI/ML &amp; Backend Engineer
+### Software Developer
 
 <br>
 
