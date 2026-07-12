@@ -214,9 +214,4 @@ Scaffold production-ready Express APIs · generators for routes / middleware / D
 
 <br>
 
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-FF6B9D?style=for-the-badge&logo=gmail&logoColor=1a0b2e&labelColor=1a0b2e" /></a>
-<a href="https://www.linkedin.com/in/david-veryutin"><img src="https://img.shields.io/badge/CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=1a0b2e&labelColor=1a0b2e" /></a>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&text=%3C%2F%3E&fontSize=40&fontColor=ffffff&color=0:FF6B9D,50:C445D4,100:7B2FF7&stroke=00E5FF&strokeWidth=2" alt="footer" width="100%" />
