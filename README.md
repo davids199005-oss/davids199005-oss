@@ -1,79 +1,85 @@
 <!--
-  Theme: Cyberpunk Matrix
-  Palette: cyan #22D3EE · magenta #FF006E · violet #A371F7 on near-black #05010d
+  Clean typographic profile with cyberpunk accents.
+  Only two colored elements: the name banner and the section dividers.
+  All body text stays monochrome (GitHub can't color inline text anyway).
+  Palette: cyan #22D3EE · violet #A371F7 · magenta #FF006E
   For: David Veryutin / davids199005-oss
-  Layout: compact — header (glitch name + matrix rain) + terminal block, minimal rest
-  Animated banners via capsule-render + readme-typing-svg (reliable, GitHub-safe)
 -->
 
 <div align="center">
 
-<!-- HEADER — cyberpunk gradient name (capsule-render, reliable) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&section=header&text=DAVID%20VERYUTIN&fontSize=56&fontColor=ffffff&color=0:22D3EE,50:A371F7,100:FF006E&stroke=22D3EE&strokeWidth=1&animation=fadeIn" alt="David Veryutin" width="100%" />
-
-<!-- TERMINAL TYPING (readme-typing-svg, reliable — same one already in your profile) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E_+software_developer.exe+--run;%3E_+building+software+end+to+end;%3E_+clean+architecture+%C2%B7+type-safe" alt="terminal" /></a>
-
-<br>
-
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=05010d&labelColor=05010d" /></a>
-<a href="https://www.linkedin.com/in/david-veryutin"><img src="https://img.shields.io/badge/LINKEDIN-A371F7?style=for-the-badge&logo=linkedin&logoColor=05010d&labelColor=05010d" /></a>
-<a href="https://github.com/davids199005-oss"><img src="https://img.shields.io/badge/GITHUB-FF006E?style=for-the-badge&logo=github&logoColor=05010d&labelColor=05010d" /></a>
-<a href="https://www.npmjs.com/~davids90"><img src="https://img.shields.io/badge/NPM-22D3EE?style=for-the-badge&logo=npm&logoColor=05010d&labelColor=05010d" /></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=110&section=header&text=David%20Veryutin&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=Software%20Developer&descSize=17&descAlignY=78" alt="David Veryutin" width="100%" />
 
 </div>
 
-## `> whoami`
+I build production software end to end — backends, frontends, APIs, and the data
+underneath. My work is grounded in clean architecture, strict type safety, and a
+preference for code that ships and stays maintainable.
 
-```yaml
-david:
-  role:      Software Developer
-  location:  Haifa, IL
-  timezone:  UTC +2 / +3
-  languages: [ TypeScript, Python, Go, Rust ]
-  backend:   [ NestJS, FastAPI, Node.js, Flask, Django ]
-  data:      [ PostgreSQL, MongoDB, Redis, Kafka ]
-  frontend:  [ React, Angular, Next.js, Tailwind ]
-  principles: [ Clean Architecture, SOLID, type-safe ]
-  status:    "● open to work"
-```
+Currently a full-stack developer based in Haifa, Israel.
 
-## `> ls ./projects`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
-```bash
-$ ls -1 ./projects --sort=impact
+### Technologies
 
-drwxr-xr-x  Project-Athena/   # AI reading platform · RAG chat · NestJS · pgvector · [LIVE]
-drwxr-xr-x  Inkstream/        # AI chat · SSE streaming · FastAPI · React 19
-drwxr-xr-x  Vacanza/          # travel platform · MCP server · Express · MySQL
-drwxr-xr-x  Xpressify/        # CLI for Express+TS APIs · [PUBLISHED ON NPM]
-drwxr-xr-x  CryptoGraph/      # crypto analytics dashboard · React · Redux
-```
+<table>
+<tr><td><samp>Languages</samp></td><td><samp>TypeScript · Python · Go · Rust</samp></td></tr>
+<tr><td><samp>Backend</samp></td><td><samp>NestJS · FastAPI · Node.js · Flask · Django</samp></td></tr>
+<tr><td><samp>Data</samp></td><td><samp>PostgreSQL · MongoDB · Redis · Kafka</samp></td></tr>
+<tr><td><samp>Frontend</samp></td><td><samp>React · Angular · Next.js · Tailwind</samp></td></tr>
+<tr><td><samp>Practice</samp></td><td><samp>Clean Architecture · SOLID · type-safe · OWASP</samp></td></tr>
+</table>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
-<sub>
+### Selected work
 
-[Project Athena](https://github.com/davids199005-oss/Project-Athena) ·
-[Inkstream](https://github.com/davids199005-oss/Inkstream) ·
-[Vacanza](https://github.com/davids199005-oss/Vacanza) ·
-[Xpressify](https://www.npmjs.com/package/xpressify) ·
-[CryptoGraph](https://cryptograph-7f18a.web.app/Home/)
+**[Project Athena](https://github.com/davids199005-oss/Project-Athena)** &nbsp;·&nbsp; [live](https://project-athena.net/)
+AI reading platform — RAG chat over book content, EPUB/PDF reader, real-time streaming, OAuth.
+<samp>NestJS · PostgreSQL · pgvector · OpenAI · Angular</samp>
 
-</sub>
+**[Inkstream](https://github.com/davids199005-oss/Inkstream)**
+AI chat platform — OpenAI-backed API with SSE streaming and typed contracts end to end.
+<samp>FastAPI · MongoDB · React · TypeScript</samp>
 
-</div>
+**[Vacanza](https://github.com/davids199005-oss/Vacanza)**
+Full-stack travel platform — vacation booking, GPT recommendations, MCP server, admin panel.
+<samp>React · Express · MySQL · OpenAI · Docker</samp>
 
-## `> cat contact.txt`
+**[Xpressify](https://www.npmjs.com/package/xpressify)** &nbsp;·&nbsp; published on npm
+CLI for scaffolding production-ready Express + TypeScript APIs, with generators for routes, DTOs, and tests.
+<samp>TypeScript · Node.js · Zod · Vitest</samp>
 
-<div align="center">
+**[CryptoGraph](https://cryptograph-7f18a.web.app/Home/)** &nbsp;·&nbsp; live
+Crypto analytics dashboard — real-time market data, charts, and AI recommendations.
+<samp>React · TypeScript · Redux · OpenAI</samp>
 
-<img src="https://img.shields.io/badge/🇷🇺_RU-Native-22D3EE?style=flat-square&labelColor=05010d" />
-<img src="https://img.shields.io/badge/🇮🇱_HE-Fluent-A371F7?style=flat-square&labelColor=05010d" />
-<img src="https://img.shields.io/badge/🇬🇧_EN-Professional-FF006E?style=flat-square&labelColor=05010d" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
-<br><br>
+### Background
 
-<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/%3E_get_in_touch-22D3EE?style=for-the-badge&logo=gmail&logoColor=05010d&labelColor=05010d" /></a>
+~1,327 hours of formal training across three intensive programs, on top of a BA
+in Criminology &amp; Social Science from The Hebrew University of Jerusalem.
 
-</div>
+<table>
+<tr><td><samp>ECOM School</samp></td><td><samp>AI Developer — Python, ML / DL / NLP · 427 hrs</samp></td></tr>
+<tr><td><samp>John Bryce</samp></td><td><samp>Full Stack &amp; GenAI — JS/TS, Node.js, GenAI Agents · 830 hrs</samp></td></tr>
+<tr><td><samp>Udemy</samp></td><td><samp>Python Full Course · Go · Rust · ~70 hrs</samp></td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
+
+### Languages
+
+<samp>Russian — native &nbsp;·&nbsp; Hebrew — fluent &nbsp;·&nbsp; English — professional working</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
+
+<samp>
+<a href="https://www.linkedin.com/in/david-veryutin">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/davids199005-oss">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.npmjs.com/~davids90">npm</a> &nbsp;·&nbsp;
+<a href="mailto:davids199005@gmail.com">Email</a>
+</samp>
+
+<sub>Open to work · office, remote, or hybrid · Haifa &amp; Tel Aviv area and remote worldwide.</sub>
