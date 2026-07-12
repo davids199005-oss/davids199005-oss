@@ -57,7 +57,7 @@ solid engineering practice. I care about production-grade code, not demos.
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,django&theme=dark)](https://skillicons.dev)
 
-**AI / ML** &nbsp;<sub>(badges — not in skillicons)</sub>
+**AI / ML** &nbsp;
 
 <img src="https://img.shields.io/badge/RAG-FF6B9D?style=flat-square&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/pgvector-C445D4?style=flat-square&labelColor=1a0b2e" />
