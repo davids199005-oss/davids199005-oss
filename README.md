@@ -37,7 +37,7 @@ I design and build the parts of a system that have to be **correct under load** 
 service boundaries, and the AI layer on top. My work leans on clean architecture, strict type
 safety, and distributed-systems patterns (Outbox, idempotency, event-driven messaging).
 
-Currently a **Full Stack GenAI Developer** shipping commercial platforms · Haifa, IL · UTC +2 / +3
+Currently a **Full Stack GenAI Developer** shipping commercial platforms · Haifa/Tel-Aviv, IL · UTC +2 / +3
 
 </samp>
 
