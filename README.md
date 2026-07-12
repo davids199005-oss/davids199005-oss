@@ -16,7 +16,7 @@ I build production software end to end — backends, frontends, APIs, and the da
 underneath. My work is grounded in clean architecture, strict type safety, and a
 preference for code that ships and stays maintainable.
 
-Currently a full-stack developer based in Haifa, Israel.
+Currently a full-stack developer based in  Israel.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
