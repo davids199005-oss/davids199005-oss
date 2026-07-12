@@ -156,7 +156,7 @@ Scaffold production-ready Express APIs · generators for routes / middleware / D
 </table>
 
 <div align="center">
-<sub>Also: <a href="https://cryptograph-7f18a.web.app/Home/">CryptoGraph</a> — crypto analytics dashboard (React · TS · Redux · OpenAI)</sub>
+
 </div>
 
 <img src="./profile/synthwave-horizon.svg" alt="" width="100%" />
