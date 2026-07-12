@@ -34,7 +34,7 @@ Currently a full-stack developer based in  Israel.
 
 ### Selected work
 
-**[Project Athena](https://github.com/davids199005-oss/Project-Athena)** &nbsp;·&nbsp; [live](https://project-athena.net/)
+**[Project Athena](https://github.com/davids199005-oss/Project-Athena)** 
 AI reading platform — RAG chat over book content, EPUB/PDF reader, real-time streaming, OAuth.
 <samp>NestJS · PostgreSQL · pgvector · OpenAI · Angular</samp>
 
