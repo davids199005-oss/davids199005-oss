@@ -57,7 +57,7 @@ solid engineering practice. I care about production-grade code, not demos.
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,django&theme=dark)](https://skillicons.dev)
 
-**AI / ML** &nbsp;
+**AI / ML** &nbsp;<sub>(badges — not in skillicons)</sub>
 
 <img src="https://img.shields.io/badge/RAG-FF6B9D?style=flat-square&labelColor=1a0b2e" />
 <img src="https://img.shields.io/badge/pgvector-C445D4?style=flat-square&labelColor=1a0b2e" />
@@ -156,11 +156,28 @@ Scaffold production-ready Express APIs · generators for routes / middleware / D
 </table>
 
 <div align="center">
-
+<sub>Also: <a href="https://cryptograph-7f18a.web.app/Home/">CryptoGraph</a> — crypto analytics dashboard (React · TS · Redux · OpenAI)</sub>
 </div>
 
 <img src="./profile/synthwave-horizon.svg" alt="" width="100%" />
 
+## ◆ &nbsp;Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=davids199005-oss&show_icons=true&count_private=true&hide_border=true&bg_color=1a0b2e&title_color=FF6B9D&icon_color=00E5FF&text_color=e0d5f5" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=davids199005-oss&hide_border=true&background=1a0b2e&stroke=7B2FF7&ring=FF6B9D&fire=00E5FF&currStreakLabel=FF6B9D&sideLabels=e0d5f5&dates=b39ddb&currStreakNum=e0d5f5&sideNums=e0d5f5" alt="streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davids199005-oss&layout=compact&hide_border=true&bg_color=1a0b2e&title_color=FF6B9D&text_color=e0d5f5&langs_count=8" alt="top langs" width="360" />
+
+<br>
+<sub><i>Top languages reflect code volume by bytes in public non-forked repos, not proficiency.</i></sub>
+
+</div>
+
+<img src="./profile/synthwave-horizon.svg" alt="" width="100%" />
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -197,4 +214,9 @@ Scaffold production-ready Express APIs · generators for routes / middleware / D
 
 <br>
 
+<a href="mailto:davids199005@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-FF6B9D?style=for-the-badge&logo=gmail&logoColor=1a0b2e&labelColor=1a0b2e" /></a>
+<a href="https://www.linkedin.com/in/david-veryutin"><img src="https://img.shields.io/badge/CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=1a0b2e&labelColor=1a0b2e" /></a>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&text=%3C%2F%3E&fontSize=40&fontColor=ffffff&color=0:FF6B9D,50:C445D4,100:7B2FF7&stroke=00E5FF&strokeWidth=2" alt="footer" width="100%" />
