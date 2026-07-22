@@ -49,21 +49,19 @@ Currently a full stack developer based in Israel.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/Project-Athena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=Project-Athena&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A371F7&text_color=9198a1" alt="Project Athena" />
-</a>
+#### [Project Athena](https://github.com/davids199005-oss/Project-Athena)
 
 AI reading platform — RAG chat over book content, EPUB/PDF reader, real-time streaming, OAuth.
+
 <samp>NestJS · PostgreSQL · pgvector · OpenAI · Angular</samp>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/Inkstream">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=Inkstream&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A371F7&text_color=9198a1" alt="Inkstream" />
-</a>
+#### [Inkstream](https://github.com/davids199005-oss/Inkstream)
 
 AI chat platform — OpenAI-backed API with SSE streaming and typed contracts end to end.
+
 <samp>FastAPI · MongoDB · PyMongo · React · TypeScript</samp>
 
 </td>
@@ -71,21 +69,19 @@ AI chat platform — OpenAI-backed API with SSE streaming and typed contracts en
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/xpressify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=xpressify&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A371F7&text_color=9198a1" alt="Xpressify" />
-</a>
+#### [Xpressify](https://www.npmjs.com/package/xpressify) &nbsp;·&nbsp; <sub>npm</sub>
 
 CLI for scaffolding production-ready Express + TypeScript APIs, with generators for routes, DTOs, and tests.
-<samp>published on npm · TypeScript · Zod · Vitest</samp>
+
+<samp>TypeScript · Node.js · Zod · Vitest</samp>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/Vacanza">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=Vacanza&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A371F7&text_color=9198a1" alt="Vacanza" />
-</a>
+#### [Vacanza](https://github.com/davids199005-oss/Vacanza)
 
 Full-stack travel platform — vacation booking, GPT recommendations, MCP server, admin panel.
+
 <samp>React · Express · MySQL · OpenAI · Docker</samp>
 
 </td>
@@ -93,12 +89,11 @@ Full-stack travel platform — vacation booking, GPT recommendations, MCP server
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/CryptoGraph">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=CryptoGraph&theme=github_dark&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A371F7&text_color=9198a1" alt="CryptoGraph" />
-</a>
+#### [CryptoGraph](https://github.com/davids199005-oss/CryptoGraph) &nbsp;·&nbsp; <sub>[live](https://cryptograph-7f18a.web.app/Home/)</sub>
 
 Crypto analytics dashboard — real-time market data, charts, and AI recommendations.
-<samp><a href="https://cryptograph-7f18a.web.app/Home/">live</a> · React · Redux · MUI · OpenAI</samp>
+
+<samp>React · TypeScript · Redux · MUI · OpenAI</samp>
 
 </td>
 <td width="50%" valign="top">
@@ -114,21 +109,19 @@ Crypto analytics dashboard — real-time market data, charts, and AI recommendat
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/SVM-Mouse-viral-Study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=SVM-Mouse-viral-Study&theme=github_dark&hide_border=true&bg_color=00000000&title_color=FF006E&icon_color=A371F7&text_color=9198a1" alt="SVM Mouse Viral Study" />
-</a>
+#### [SVM — Mouse Viral Study](https://github.com/davids199005-oss/SVM-Mouse-viral-Study)
 
 Binary classification on a biomedical dataset — full pipeline from EDA to decision boundary visualization.
+
 <samp>scikit-learn · SVM · StandardScaler · GridSearchCV</samp>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/BankNote_Authentication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=BankNote_Authentication&theme=github_dark&hide_border=true&bg_color=00000000&title_color=FF006E&icon_color=A371F7&text_color=9198a1" alt="BankNote Authentication" />
-</a>
+#### [BankNote Authentication](https://github.com/davids199005-oss/BankNote_Authentication)
 
 Counterfeit detection on the UCI banknote dataset — 1,372 samples, wavelet-derived features. 0.99 test accuracy, zero false negatives.
+
 <samp>scikit-learn · Random Forest · GridSearchCV</samp>
 
 </td>
@@ -136,11 +129,10 @@ Counterfeit detection on the UCI banknote dataset — 1,372 samples, wavelet-der
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/davids199005-oss/electronic-shop-data-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davids199005-oss&repo=electronic-shop-data-analysis&theme=github_dark&hide_border=true&bg_color=00000000&title_color=FF006E&icon_color=A371F7&text_color=9198a1" alt="Electronic Shop Data Analysis" />
-</a>
+#### [Electronic Shop — Data Analysis](https://github.com/davids199005-oss/electronic-shop-data-analysis)
 
 End-to-end EDA across a multi-table e-commerce dataset — cleaning, joins, aggregation, business findings.
+
 <samp>Pandas · NumPy · Matplotlib · Seaborn</samp>
 
 </td>
