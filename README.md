@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=110&section=header&text=David%20Veryutin&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=Full%20Stack%20%2526%20ML&descSize=17&descAlignY=78" alt="David Veryutin" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=110&section=header&text=David%20Veryutin&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=Full%20Stack%20and%20ML&descSize=17&descAlignY=78" alt="David Veryutin" width="100%" />
 </div>
 
 I build production software end to end — backends, frontends, APIs, and the data
