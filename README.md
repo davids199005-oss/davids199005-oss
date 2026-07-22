@@ -1,46 +1,57 @@
 <!--
   Clean typographic profile with cyberpunk accents.
-  Only two colored elements: the name banner and the section dividers.
-  All body text stays monochrome (GitHub can't color inline text anyway).
   Palette: cyan #22D3EE · violet #A371F7 · magenta #FF006E
   For: David Veryutin / davids199005-oss
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=110&section=header&text=David%20Veryutin&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=Software%20Developer&descSize=17&descAlignY=78" alt="David Veryutin" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=110&section=header&text=David%20Veryutin&fontSize=44&fontColor=ffffff&fontAlignY=52&desc=Full%20Stack%20%26%20ML&descSize=17&descAlignY=78" alt="David Veryutin" width="100%" />
 
 </div>
 
 I build production software end to end — backends, frontends, APIs, and the data
-underneath. My work is grounded in clean architecture, strict type safety, and a
-preference for code that ships and stays maintainable.
+underneath — and I train models on top of it. My work is grounded in clean
+architecture, strict type safety, and a preference for code that ships and stays
+maintainable.
 
-Currently a full-stack developer based in  Israel.
+Currently a full stack developer based in Israel.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
-### Technologies
+### Full Stack
 
 <table>
 <tr><td><samp>Languages</samp></td><td><samp>TypeScript · Python · Go · Rust</samp></td></tr>
-<tr><td><samp>Backend</samp></td><td><samp>NestJS · FastAPI · Node.js · Flask · Django</samp></td></tr>
-<tr><td><samp>Data</samp></td><td><samp>PostgreSQL · MongoDB · Redis · Kafka</samp></td></tr>
-<tr><td><samp>Frontend</samp></td><td><samp>React · Angular · Next.js · Tailwind</samp></td></tr>
-<tr><td><samp>Practice</samp></td><td><samp>Clean Architecture · SOLID · type-safe · OWASP</samp></td></tr>
+<tr><td><samp>Backend</samp></td><td><samp>NestJS · FastAPI · Express · Django · Flask</samp></td></tr>
+<tr><td><samp>Frontend</samp></td><td><samp>React · Angular · Next.js · Redux · MUI · Tailwind</samp></td></tr>
+<tr><td><samp>Data</samp></td><td><samp>PostgreSQL · MongoDB · Redis · Kafka · Elasticsearch</samp></td></tr>
+<tr><td><samp>ORM</samp></td><td><samp>TypeORM · Prisma · SQLAlchemy · Mongoose · Zod</samp></td></tr>
+<tr><td><samp>Platform</samp></td><td><samp>Docker · Nginx · AWS · Socket.IO · Playwright</samp></td></tr>
+<tr><td><samp>Security</samp></td><td><samp>JWT · OAuth 2.0 · RBAC · OWASP Top 10</samp></td></tr>
+<tr><td><samp>Practice</samp></td><td><samp>Clean Architecture · SOLID · type-safe</samp></td></tr>
+</table>
+
+### Machine Learning &amp; Data
+
+<table>
+<tr><td><samp>Core</samp></td><td><samp>scikit-learn · TensorFlow · NumPy · Pandas · SciPy</samp></td></tr>
+<tr><td><samp>Analysis</samp></td><td><samp>Jupyter · Matplotlib · Seaborn</samp></td></tr>
+<tr><td><samp>Applied AI</samp></td><td><samp>OpenAI · Anthropic SDK · MCP · RAG · pgvector</samp></td></tr>
+<tr><td><samp>Methods</samp></td><td><samp>supervised classification · GridSearchCV · EDA · feature engineering</samp></td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
 ### Selected work
 
-**[Project Athena](https://github.com/davids199005-oss/Project-Athena)** 
+**[Project Athena](https://github.com/davids199005-oss/Project-Athena)**
 AI reading platform — RAG chat over book content, EPUB/PDF reader, real-time streaming, OAuth.
 <samp>NestJS · PostgreSQL · pgvector · OpenAI · Angular</samp>
 
 **[Inkstream](https://github.com/davids199005-oss/Inkstream)**
 AI chat platform — OpenAI-backed API with SSE streaming and typed contracts end to end.
-<samp>FastAPI · MongoDB · React · TypeScript</samp>
+<samp>FastAPI · MongoDB · PyMongo · React · TypeScript</samp>
 
 **[Vacanza](https://github.com/davids199005-oss/Vacanza)**
 Full-stack travel platform — vacation booking, GPT recommendations, MCP server, admin panel.
@@ -53,6 +64,23 @@ CLI for scaffolding production-ready Express + TypeScript APIs, with generators 
 **[CryptoGraph](https://cryptograph-7f18a.web.app/Home/)** &nbsp;·&nbsp; live
 Crypto analytics dashboard — real-time market data, charts, and AI recommendations.
 <samp>React · TypeScript · Redux · OpenAI</samp>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
+
+### Machine learning &amp; data projects
+
+**[SVM — Mouse Viral Study](https://github.com/davids199005-oss/SVM-Mouse-viral-Study)**
+Binary classification on a biomedical dataset — full pipeline from EDA to decision boundary visualization.
+<samp>scikit-learn · SVM · StandardScaler · GridSearchCV (C, kernel)</samp>
+
+**[BankNote Authentication](https://github.com/davids199005-oss/BankNote_Authentication)**
+Counterfeit detection on the UCI banknote dataset — 1,372 samples, wavelet-derived features.
+Systematic hyperparameter search; 0.99 test accuracy with zero false negatives.
+<samp>scikit-learn · Random Forest · GridSearchCV · confusion matrix</samp>
+
+**[Electronic Shop — Data Analysis](https://github.com/davids199005-oss/electronic-shop-data-analysis)**
+End-to-end EDA across a multi-table e-commerce dataset — cleaning, joins, aggregation, business findings.
+<samp>Pandas · NumPy · Matplotlib · Seaborn</samp>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A371F7,100:FF006E&height=2" width="100%" />
 
