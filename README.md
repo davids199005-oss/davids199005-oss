@@ -25,7 +25,7 @@ Currently a full stack developer based in Israel.
 <tr><td><samp>Languages</samp></td><td><samp>TypeScript · Python · Go · Rust</samp></td></tr>
 <tr><td><samp>Backend</samp></td><td><samp>NestJS · FastAPI · Express · Django · Flask</samp></td></tr>
 <tr><td><samp>Frontend</samp></td><td><samp>React · Angular · Next.js · Redux · MUI · Tailwind</samp></td></tr>
-<tr><td><samp>Data</samp></td><td><samp>PostgreSQL · MongoDB · Redis · Kafka · Elasticsearch</samp></td></tr>
+<tr><td><samp>Data</samp></td><td><samp>MySQL · PostgreSQL · MongoDB · Redis · Kafka · Elasticsearch</samp></td></tr>
 <tr><td><samp>ORM</samp></td><td><samp>TypeORM · Prisma · SQLAlchemy · Mongoose · Zod</samp></td></tr>
 <tr><td><samp>Platform</samp></td><td><samp>Docker · Nginx · AWS · Socket.IO · Playwright</samp></td></tr>
 <tr><td><samp>Security</samp></td><td><samp>JWT · OAuth 2.0 · RBAC · OWASP Top 10</samp></td></tr>
