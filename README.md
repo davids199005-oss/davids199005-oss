@@ -22,7 +22,7 @@ Based in Israel.
 
 **Languages & runtime**
 
-[![](https://skillicons.dev/icons?i=ts,js,py,go,rust,nodejs&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,,py,go,rust,nodejs&perline=5)](https://skillicons.dev)
 
 **Backend**
 
