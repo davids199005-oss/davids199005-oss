@@ -150,6 +150,19 @@ Crypto analytics dashboard — real-time market data, coin detail views, charts,
 <tr>
 <td width="50%" valign="top">
 
+### [Supervised Learning — Regression & Classification](https://github.com/davids199005-oss/SUPERVISED-LEARNING)
+
+Two-part study. GDP regression on a COVID dataset — vanilla / Ridge / Lasso with polynomial degree selection, multicollinearity analysis, and an honest negative finding. Customer churn classification across four algorithms with hyperparameter tuning; linear ceiling at 82.7% broken by non-linear models.
+
+![](https://img.shields.io/badge/scikit--learn-FF006E?style=flat-square)
+![](https://img.shields.io/badge/Random%20Forest%20%C2%B7%20SVM%20%C2%B7%20KNN-FF006E?style=flat-square)
+![](https://img.shields.io/badge/Ridge%20%C2%B7%20Lasso-FF006E?style=flat-square)
+![](https://img.shields.io/badge/GridSearchCV-FF006E?style=flat-square)
+![](https://img.shields.io/badge/joblib-FF006E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 ### [SVM — Mouse Viral Study](https://github.com/davids199005-oss/SVM-Mouse-viral-Study)
 
 Binary classification on a biomedical dataset — full pipeline from EDA to decision boundary visualization.
@@ -159,6 +172,8 @@ Binary classification on a biomedical dataset — full pipeline from EDA to deci
 ![](https://img.shields.io/badge/GridSearchCV-FF006E?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [BankNote Authentication](https://github.com/davids199005-oss/BankNote_Authentication)
@@ -170,8 +185,6 @@ Counterfeit detection on the UCI banknote dataset — 1,372 samples, wavelet-der
 ![](https://img.shields.io/badge/GridSearchCV-FF006E?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Electronic Shop — Data Analysis](https://github.com/davids199005-oss/electronic-shop-data-analysis)
@@ -183,8 +196,6 @@ End-to-end EDA across a multi-table e-commerce dataset — cleaning, joins, aggr
 ![](https://img.shields.io/badge/Matplotlib-22D3EE?style=flat-square)
 ![](https://img.shields.io/badge/Seaborn-22D3EE?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
