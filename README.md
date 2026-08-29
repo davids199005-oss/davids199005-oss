@@ -26,7 +26,7 @@ Based in Israel.
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=nestjs,express,fastapi,springboot,prisma,postman&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nestjs,express,fastapi,spring,prisma,postman&perline=5)](https://skillicons.dev)
 
 **Frontend**
 
