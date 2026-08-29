@@ -22,11 +22,11 @@ Based in Israel.
 
 **Languages & runtime**
 
-[![](https://skillicons.dev/icons?i=ts,py,go,rust,nodejs&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,py,go,rust,java,nodejs&perline=5)](https://skillicons.dev)
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=nestjs,express,fastapi,prisma,postman&perline=5)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nestjs,express,fastapi,springboot,prisma,postman&perline=5)](https://skillicons.dev)
 
 **Frontend**
 
